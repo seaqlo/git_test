@@ -1,0 +1,1 @@
+This is seaqlo's first git project!
